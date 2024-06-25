@@ -1,0 +1,57 @@
+{
+  "name": "swaggyP36000 IPA Library",
+  "identifier": "xyz.hieuddo.ipalibrary",
+  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "apps": [
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "developerName": "kodjodevf",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.kodjodevf.mangayomi.png",
+      "versions": [
+        {
+          "version": "0.2.6",
+          "date": "2024-06-20",
+          "size": 48545108,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.6/Mangayomi-v0.2.6-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.2.55",
+          "date": "2024-06-09",
+          "size": 48358306,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.55/Mangayomi-v0.2.55-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.2.45",
+          "date": "2024-05-18",
+          "size": 48491885,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.45/Mangayomi-v0.2.45-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.2.4",
+          "date": "2024-05-13",
+          "size": 48652048,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.4/Mangayomi-v0.2.4-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.2.25",
+          "date": "2024-05-07",
+          "size": 48641565,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.25/Mangayomi-v0.2.25-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.2.2",
+          "date": "2024-04-08",
+          "size": 100952983,
+          "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.2/Mangayomi-v0.2.2-ios.ipa",
+          "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+      ]
+    }
+  ]
+}
