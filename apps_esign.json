@@ -1,0 +1,18 @@
+{
+  "name": "Alphastark IPA Library",
+  "identifier": "xyz.alphastark.ipalibrary",
+  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "apps": [
+    {
+      "name": "Mangayomi",
+      "bundleIdentifier": "com.kodjodevf.mangayomi",
+      "version": "0.2.6",
+      "versionDate": "2024-06-18",
+      "size": 48545108,
+      "downloadURL": "https://github.com/kodjodevf/mangayomi/releases/download/v0.2.6/Mangayomi-v0.2.6-ios.ipa",
+      "developerName": "kodjodevf",
+      "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 06-20-2024\nStatus: \u2705 \ud83d\udc4d",
+      "iconURL": "https://raw.githubusercontent.com/kodjodevf/mangayomi/main/assets/app_icons/icon-red.png"
+    }
+  ]
+}
