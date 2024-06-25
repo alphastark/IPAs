@@ -1,7 +1,7 @@
 {
   "name": "Alphastark IPA Library",
   "identifier": "xyz.alphastark.ipalibrary",
-  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/alphastark/IPAs/main/apps.json",
   "apps": [
     {
       "name": "Mangayomi",
