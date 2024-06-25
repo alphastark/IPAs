@@ -22,7 +22,7 @@
 
 
 
-<li><strong>Repo</strong><br><a href="https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json</a></li>
+<li><strong>Repo</strong><br><a href="https://raw.githubusercontent.com/alphastark/IPAs/main/apps_esign.json">https://raw.githubusercontent.com/alphastark/IPAs/main/apps_esign.json</a></li>
 </ol>
 
 
@@ -152,7 +152,7 @@
 
 
 <ol class="wp-block-list">
-<li>Tap on the <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">link</a> or manually copy from above to Esign → App Source (Top Left) → + &nbsp;</li>
+<li>Tap on the <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/alphastark/IPAs/main/apps_esign.json">link</a> or manually copy from above to Esign → App Source (Top Left) → + &nbsp;</li>
 
 
 
